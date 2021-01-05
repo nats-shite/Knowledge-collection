@@ -8,6 +8,8 @@ published: true
 # はじめに
 とりあえずWindowsのパソコン買ったらインストールするツールたちを紹介します。
 
+# EXEファイル
+
 #### Clibor
 - https://forest.watch.impress.co.jp/library/software/clibor/
 - 定型文の挿入も可能なクリップボード履歴管理ツール。
@@ -43,7 +45,10 @@ published: true
 
 ![](https://storage.googleapis.com/zenn-user-upload/n5r55gja1zpnqvvn5wfhzt68kacu)
 
-#### The Great Suspender *クローム拡張機能
+
+# クローム拡張機能
+
+#### The Great Suspender
 - https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=ja
 - 使用していないタブを一時停止して、コンピューターのメモリを節約してくれるツール。
 - 一時停止したくない特定のURLまたはドメインをホワイトリストに登録できる。
